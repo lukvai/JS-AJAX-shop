@@ -1,0 +1,106 @@
+
+{
+	"vegetables" : [
+		{
+			"name": "carrot",
+			"price": 0.89,
+			"picture": "img/carrot.jpg"
+		},
+		{
+			"name": "cabbage",
+			"price": 0.55,
+			"picture": "img/cabbage.jpg"
+		},
+		{
+			"name": "raddish",
+			"price": 1.50,
+			"picture": "img/raddish.jpg"
+		},
+		{
+			"name": "garlic",
+			"price": 0.59,
+			"picture": "img/garlic.jpg"
+		}
+	],
+	"meat" : [
+		{
+			"name": "chicken",
+			"price": 4.20,
+			"picture": "img/chicken.jpg"
+		},
+		{
+			"name": "beef",
+			"price": 8.50,
+			"picture": "img/beef.jpg"
+		},
+		{
+			"name": "turkey",
+			"price": 6.30,
+			"picture": "img/turkey.jpg"
+		},
+		{
+			"name": "pork",
+			"price": 3.30,
+			"picture": "img/pork.jpg"
+		}
+	],
+	"fruit" : [
+		{
+			"name": "strawberry",
+			"price": 5.00,
+			"picture": "img/strawberry.jpg"
+		},
+		{
+			"name": "watermelon",
+			"price": 0.89,
+			"picture": "img/watermelon.jpg"
+		},
+		{
+			"name": "apple",
+			"price": 1.29,
+			"picture": "img/apple.jpg"
+		},
+		{
+			"name": "orange",
+			"price": 5.99,
+			"picture": "img/orange.jpg"
+		},
+		{
+			"name": "peach",
+			"price": 0.50,
+			"picture": "img/peach.jpg"
+		},
+		{
+			"name": "pear",
+			"price": 0.30,
+			"picture": "img/pear.jpg"
+		}
+	],
+	"dairy" : [
+		{
+			"name": "milk",
+			"price": 1.39,
+			"picture": "img/milk.jpg"
+		},
+		{
+			"name": "cheese",
+			"price": 2.20,
+			"picture": "img/cheese.jpg"
+		},
+		{
+			"name": "curd",
+			"price": 0.89,
+			"picture": "img/curd.jpg"
+		},
+		{
+			"name": "kefir",
+			"price": 0.50,
+			"picture": "img/kefir.jpg"
+		},
+		{
+			"name": "sour cream",
+			"price": 3.39,
+			"picture": "img/sourcream.jpg"
+		}
+	]
+}

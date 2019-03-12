@@ -1,0 +1,58 @@
+body{
+	/*background-image: url('https://www.landolakesinc.com/lolinc/media/Images/blog/010217commercial.jpg?ext=.jpg');
+	background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center; */
+   	background: #63A552;
+
+}
+#title{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h1{
+	text-align: center;
+}
+/*#sarasas{
+background-color: #FF9B7C;
+}*/
+input{
+	margin: 15px 0;
+}
+#sarasas>div>{
+	/*padding: 15px;*/
+}
+#sarasas>div>div{
+	/*background-color: #f2ccd7;
+	/border-radius: 15px;*/
+	padding: 0 15px;
+}
+
+.photo{
+
+}
+.photo>img{
+	height: 300px;
+	width: 100%;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+.thumbnail{
+	padding: 0 !important;
+	background-color: #FF9B7C;
+	border: 1px solid #14AFAC;
+}
+
+.thumbnail>p{
+	margin: 15px;
+	width: 50%;
+}
+
+.addToCart{
+	width: 50%;
+	padding: 15px;
+	/*text-align: right;*/
+	/*float: right;*/
+}
